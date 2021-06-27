@@ -11,18 +11,18 @@ the x-axis for the elevators and the y-axis for the ailerons.
     Directory Hierarchy
     
 Model:\
-        *Model class -.
+        *Model class- a class which connects to the flight simulator (the FlightGear app) with ip/port and sends commands of movement it gets from viewmodel.
 
 View:\
    *views folder:\
--Joystick class\
--VerticalSeekBar class\
--MainActivity class\
+-Joystick class- a class which declarate all components that joystick needs.\
+-VerticalSeekBar class- a class which declares custom of vertical seek bar (for the throttle).\
+-MainActivity class- a class which holds a field of a ViewModel and updates it about values the 'view' get from user (ip/port and throttle/rudder/elevator/aileron).\
    *res/layout folder:\
--activity_main.xml
+-activity_main.xml- the xml file which holds the display of the android application.
 
 ViewModel:\
-        *ViewModel class
+        *ViewModel class- a class which holds a field of a Model and sends to model the values it gets from view.
 
     Installation and Running Instructions
 
