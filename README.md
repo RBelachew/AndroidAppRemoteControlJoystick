@@ -25,6 +25,7 @@ ViewModel:\
     Installation and Running Instructions
 
 As a client of the app you need to run the android app and to connect the server of FlightGear as mentioned, with IP and Port.
+https://lucid.app/lucidchart/invitations/accept/inv_b09d9ad8-de7b-4a4d-a070-8a391e8ccb01?viewport_loc=-157%2C290%2C1707%2C779%2C0_0
 
 As a developer you need an IDE suitable for running Android Application (I used Android Studio).\
 In addition, you need to download and install the FlightGear application with the following link: https://www.flightgear.org/download/ .\
