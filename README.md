@@ -18,8 +18,6 @@ View:\
 -Joystick class- a class which determines all components that joystick needs.\
 -VerticalSeekBar class- a class which declares custom of vertical seek bar (for the throttle).\
 -MainActivity class- a class which updates the ViewModel about values the user sends (ip/port and throttle/rudder/elevator/aileron).\
-   *res/layout folder:\
--activity_main.xml- the xml file which holds the display of the android application.
 
 ViewModel:\
         *ViewModel class- a class which holds a field of a Model and sends to model the values it gets from view.
