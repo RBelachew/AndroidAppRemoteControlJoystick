@@ -40,6 +40,6 @@ There is a link to UML charts of the main classes https://lucid.app/documents/vi
     Video
 
 There is a link to a video where I demonstrate the use of the android application: https://drive.google.com/file/d/1NajSb5NwlHkhuQtlIjRQGBfBiL5vWpXB/view?usp=sharing .\
-*Note: The video says that in class MainActivity there is a field of ViewModel but in fact, MainActivity has no fields at all but it defines a ViewModel variable within an onCreate function through which it passes the data from user to ViewModel.
+*Note: In the video it is said that in class MainActivity there is a field of ViewModel but in fact, MainActivity has no fields at all but it defines a ViewModel variable within an onCreate function through which it passes the data from user to ViewModel.
 
 
