@@ -41,6 +41,6 @@ There is a link to UML charts of the main classes https://lucid.app/lucidchart/8
 
     Video
 
-There is a link to a video where I demonstrate the use of the android application:
+There is a link to a video where I demonstrate the use of the android application: https://drive.google.com/file/d/1NajSb5NwlHkhuQtlIjRQGBfBiL5vWpXB/view?usp=sharing
 
 
