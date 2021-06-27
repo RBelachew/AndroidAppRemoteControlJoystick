@@ -5,7 +5,7 @@
 
 The app is a very simple application, and there is one action that can be performed.\
 In the application it will be possible to connect to the IP where the flight simulator is running, and to specify the simulator listening, with a login button.\
-The app has two seek bars for the Throttle and Rudder, as well as a virtual joystick that communicates with the simulator,\
+The app has two seek bars for the throttle (the vertical one) and rudder (the horizontal one), as well as a virtual joystick that communicates with the simulator,\
 the x-axis for the elevators and the y-axis for the ailerons.
 
     Directory Hierarchy
