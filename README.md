@@ -17,7 +17,7 @@ View:\
    *views folder:\
 -Joystick class- a class which determines all components that joystick needs.\
 -VerticalSeekBar class- a class which declares custom of vertical seek bar (for the throttle).\
--MainActivity class- a class which updates the ViewModel about values the user sends (ip/port and throttle/rudder/elevator/aileron).\
+-MainActivity class- a class which updates the ViewModel about values the user sends (ip/port and throttle/rudder/elevator/aileron).
 
 ViewModel:\
         *ViewModel class- a class which holds a field of a Model and sends to model the values it gets from view.
