@@ -11,7 +11,7 @@ the x-axis for the elevators and the y-axis for the ailerons.
     Directory Hierarchy
     
 Model:\
-        *Model class -.\
+        *Model class -.
 
 View:\
    *views folder:\
@@ -29,11 +29,11 @@ ViewModel:\
 As a client of the app you need to run the android app and to connect the server of FlightGear as mentioned, with IP and Port.
 
 As a developer you need an IDE suitable for running Android Application (I used Android Studio).\
-In addition, when you open the flight simulator, you can set the following setting in the Settings Additional tab:
---telnet = socket, in, 10,127.0.0.1,6400, tcp
-This setting instructs the flight simulator to open a server over IP / TCP, localhost and port 6400.
-The setting in defines that the flight simulator serves as a server side, which will expect to read information from clients that connect to it.
-you can download and install with the following link: https://www.flightgear.org/download/ .
+In addition, when you open the flight simulator, you can set the following setting in the Settings Additional tab:\
+--telnet = socket, in, 10,127.0.0.1,6400, tcp\
+This setting instructs the flight simulator to open a server over IP / TCP, localhost and port 6400.\
+The setting in defines that the flight simulator serves as a server side, which will expect to read information from clients that connect to it.\
+You can download and install the FlightGear application with the following link: https://www.flightgear.org/download/ .
 
     Documentation/UML
     
